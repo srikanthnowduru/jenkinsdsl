@@ -1,6 +1,6 @@
 job('antbuild') {
     scm {
-        github('tetradev01/demoapp', 'master')
+        github('srikanthnowduru/demoapp', 'master')
     }
 
     steps {
